@@ -1,7 +1,7 @@
 {
-  "version": "2.0.1",
-  "download_url": "https://github.com/itspr4taspt/infinity-client-data/releases/download/v2.0.1/InfinityClient.exe",
-  "changelog": "• Correção de bugs\n• Melhor performance\n• Nova UI",
+  "version": "1.0.2",
+  "download_url": "https://github.com/itspr4taspt/infinity-client-data/releases/download/v1.0.2/InfinityClient.exe",
+  "changelog": "• Atualização geral",
   "mandatory": false,
-  "release_date": "2025-01-15"
+  "release_date": "2026-06-16"
 }
