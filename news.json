@@ -1,5 +1,15 @@
 {
   "version": "1.0.0",
-  "last_update": "2024-01-20",
-  "news": []
+  "last_update": "2026-06-16T15:48:38.157776",
+  "news": [
+    {
+      "id": 1,
+      "title": "Teste",
+      "description": "teste",
+      "date": "2026-06-16",
+      "datetime": "2026-06-16T15:48:38.157776",
+      "tag": "fix",
+      "link": ""
+    }
+  ]
 }
